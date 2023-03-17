@@ -21,29 +21,29 @@ global.APIKeys = {
 }
 ////////////////////////////////////////////////////|:|             OWNER DETAILS             |:|//////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-global.session = process.env.SESSION_ID || 'PUT HERE',
-global.ownername = process.env.OWNER_NAME === undefined ? "DarkWinzo" : process.env.OWNER_NAME
-let fake = process.env.OWNER_NUMBER === undefined ? '94775200935' : process.env.OWNER_NUMBER
-global.owner = [`${fake}`]
-global.ownernumber = [`${fake}`]
+global.session = process.env.SESSION_ID || 'Mzl4YWppTnU=',
+global.ownername = process.env.OWNER_NAME === undefined ? "𝐌𝐑. 𝐢 𝐁𝐎𝐘 :⃤👿" : process.env.OWNER_NAME
+let fake = process.env.OWNER_NUMBER === undefined ? '94761676948' : process.env.OWNER_NUMBER
+global.owner = [`𝐌𝐑. 𝐢 𝐁𝐎𝐘 :⃤👿`]
+global.ownernumber = [`94761676948`]
 global.premium = [`${fake}`]
 global.anticall = process.env.ANTICALL === undefined ? 'false' : process.env.ANTICALL
-global.packname = process.env.PACK_NAME === undefined ? 'Queen-MD' : process.env.PACK_NAME
-global.author = process.env.STICKER_AUTHOR_NAME === undefined ? 'DarkWinzo' : process.env.STICKER_AUTHOR_NAME
+global.packname = process.env.PACK_NAME === undefined ? '𝐌𝐑. 𝐢 𝐁𝐎𝐘 :⃤👿' : process.env.PACK_NAME
+global.author = process.env.STICKER_AUTHOR_NAME === undefined ? '𝐌𝐑. 𝐢 𝐁𝐎𝐘 :⃤👿' : process.env.STICKER_AUTHOR_NAME
 global.pmblock = process.env.PM_BLOCK === undefined ? 'false' : process.env.PM_BLOCK
-global.chatbot_pm = process.env.PM_CHATBOT === undefined ? 'false' : process.env.PM_CHATBOT
-global.chatbot_group = process.env.GROUP_CHATBOT === undefined ? 'false' : process.env.GROUP_CHATBOT
+global.chatbot_pm = process.env.PM_CHATBOT === undefined ? 'true' : process.env.PM_CHATBOT
+global.chatbot_group = process.env.GROUP_CHATBOT === undefined ? 'true' : process.env.GROUP_CHATBOT
 
 /////////////////////////////////////////////////////////////////||SESSION ID METHOD||///////////////////////////////////////////////////////////////////////
 global.sessionconvert = ['true']                           //This is session id method.....//Don't Change
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-global.Botname = 'Q'+'ᴜ'+'ᴇ'+'ᴇ'+'ɴ'+'-'+'ᴍ'+'ᴅ'
+global.Botname = '𝐌𝐑. 𝐢 𝐁𝐎𝐘 :⃤👿'
 global.prefa = ['.']
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 global.mess = {
-        wait: '*ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ...⏳️*',
+        wait: '𝐌𝐑. 𝐢 𝐁𝐎𝐘 :⃤👿 *ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ...⏳️*',
         owner: '*🔰️ ᴏɴʟʏ ᴍʏ ᴏᴡɴᴇʀ ᴄᴀɴ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ*',
         group: '*🔰️ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ɪꜱ ᴍᴀᴅᴇ ꜰᴏʀ *ɢʀᴏᴜᴘꜱ* ᴏɴʟʏ !*',
         admin: '*🔰️ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ᴄᴀɴ ʙᴇ ᴜꜱᴇᴅ ᴏɴʟʏ ꜰᴏʀ *ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ !*',
